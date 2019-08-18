@@ -4,7 +4,7 @@ Timelapse Creator is a HUD and toolset add-on for Blockland that makes creating 
 Designed and built by the CityRPG 4 team.
 
 # How it works
-The timelapse creator will allow you to take screenshots of a build, either by loading up a set of autosaves or by watching a build's creation in realtime. You can then use the hud to display the dates or other info on each screenshot, and then use it to assemble a timelapse.
+The timelapse creator will allow you to take screenshots of a build, either by loading up a set of autosaves or by watching a build's creation in realtime. You can then use the hud to display the dates or other info on each screenshot. Then, you can use assemble each screenshot to create a timelapse
 
 # Feedback
 This tool was designed for the CityRPG 4 YouTube videos. However, it can be used for any purpose. If it doesn't quite fit your needs or you have any other comments, feel free to reach out to us!
