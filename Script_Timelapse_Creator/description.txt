@@ -1,0 +1,3 @@
+Title: Timelapse Creator
+Author: Lake (14128) and the CityRPG 4 Team
+A HUD and interface that allows for the easy creation of timelapse videos.
