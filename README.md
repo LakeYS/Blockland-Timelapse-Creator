@@ -14,10 +14,10 @@ This tool was designed for the CityRPG 4 YouTube videos. However, it can be used
 - Discord 2: Lake's Development Server - https://discord.gg/s3vCQba
 
 # Planned Features
-- Initial concept and GUI
-- HUD for displaying the save name or time in each screenshot
-- Integrate with the saving and screenshot keys to take screenshots
-- Stylized themes and display customization through Blockland's GUI editor.
-- Camera system integration of some sort for built-in stable shots
-- Instructions on how to create a timelapse easily
-- Screenshot viewer that imports screenshots after creating and plays them for easy viewing/recording
+- [ ] Initial concept and GUI
+- [ ] HUD for displaying the save name or time in each screenshot
+- [ ] Integrate with the saving and screenshot keys to take screenshots
+- [ ] Stylized themes and display customization through Blockland's GUI editor.
+- [ ] Camera system integration of some sort for built-in stable shots
+- [ ] Instructions on how to create a timelapse easily
+- [ ] Screenshot viewer that imports screenshots after creating and plays them for easy viewing/recording
